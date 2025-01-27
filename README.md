@@ -31,7 +31,7 @@
 ## 🛠️ 快速开始
 
 ### 下载发行版
-- Windows：[发行版](https://github.com/TungYL-v2/imgtobase64/releases/tag/v1)
+- Windows：[发行版](https://github.com/TungYL-v2/imgtobase64/releases/)
 
 ### 环境要求
 - Python 3.7+
