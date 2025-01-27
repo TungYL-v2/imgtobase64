@@ -107,8 +107,8 @@ python main.py
 
 ## 🤝 贡献指南
 欢迎通过以下方式参与贡献：  
-[![GitHub Issues](https://img.shields.io/github/issues/your-username/image-base64-converter?logo=github)](https://github.com/your-username/image-base64-converter/issues)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-28A745?logo=git)](https://github.com/your-username/image-base64-converter/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/TungYL-v2/imgtobase64?logo=github)](https://github.com/TungYL-v2/imgtobase64/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-28A745?logo=git)](https://github.com/TungYL-v2/imgtobase64/pulls)
 
 ### 贡献流程
 1. 阅读 [贡献者公约](CODE_OF_CONDUCT.md)
