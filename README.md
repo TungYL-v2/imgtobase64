@@ -30,6 +30,9 @@
 
 ## 🛠️ 快速开始
 
+### 下载发行版
+- Windows：[发行版](https://github.com/TungYL-v2/imgtobase64/releases/tag/v1)
+
 ### 环境要求
 - Python 3.7+
 - Windows/macOS/Linux
@@ -73,24 +76,36 @@ python main.py
 - **切换主题**：
   - 点击“切换主题”按钮，在浅色和深色主题之间切换。
 
-### 项目结构
+## 📦 依赖说明
 
-```plaintext
-image-base64-converter/
-├── main.py                # 主程序入口
-├── requirements.txt       # 项目依赖
-├── README.md              # 项目说明文档
-```
-### 依赖库
+| 依赖库 | 版本要求 | 用途描述 |
+|-------|----------|----------|
+| [![customtkinter](https://img.shields.io/badge/customtkinter-5.2+-009688)](https://github.com/TomSchimansky/CustomTkinter) | ≥5.2 | 现代化GUI界面开发框架 |
+| [![Pillow](https://img.shields.io/badge/Pillow-10.0+-398D9C)](https://python-pillow.org/) | ≥10.0 | 图像处理核心库（格式转换/尺寸调整） |
+| [![pycryptodome](https://img.shields.io/badge/pycryptodome-3.20+-4A90E2)](https://www.pycryptodome.org/) | ≥3.20 | AES-128加密算法实现 |
 
-- **customtkinter**：用于创建现代风格的 GUI 界面。
-- **Pillow**：用于处理图片（打开、调整大小、保存等）。
-- **pycryptodome**：用于实现 AES 加密和解密功能。
+---
 
-### 许可证
+## 📜 开源协议
+[![MIT License](https://img.shields.io/badge/License-MIT-4DA1F9?style=flat-square)](https://opensource.org/licenses/MIT)  
+本作品采用 **[MIT 许可证](LICENSE)** 授权，您可自由：
+- 修改源代码
+- 用于商业项目
+- 进行二次分发
+*（需保留原始许可声明）*
 
-本项目基于 [MIT 许可证](https://opensource.org/licenses/MIT) 开源。
+---
 
-### 贡献
+## 🤝 贡献指南
+欢迎通过以下方式参与贡献：  
+[![GitHub Issues](https://img.shields.io/github/issues/your-username/image-base64-converter?logo=github)](https://github.com/your-username/image-base64-converter/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-28A745?logo=git)](https://github.com/your-username/image-base64-converter/pulls)
 
-欢迎提交 Issue 和 Pull Request！如果你有任何问题或建议，请随时联系。
+### 贡献流程
+1. 阅读 [贡献者公约](CODE_OF_CONDUCT.md)
+2. Fork 项目仓库并创建特性分支
+3. 提交符合规范的代码变更
+4. 编写/更新单元测试
+5. 通过 Pull Request 提交变更
+
+---
