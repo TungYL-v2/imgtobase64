@@ -42,7 +42,7 @@
 #### 克隆仓库
 ```
 git clone https://github.com/TungYL-v2/imgtobase64.git
-cd image-base64-converter
+cd imgtobase64
 ```
 #### 安装依赖
 ```
